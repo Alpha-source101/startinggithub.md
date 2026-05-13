@@ -7,4 +7,5 @@
 <p><i>.....................</i></p><br>
 <h4>Are you styding ? If yes whats your class .</h4><br>
 <p><i>.....................</i></p><br>
-<h3><i>Thanks ! This helpful . Okay BYE !  </i></h3><br>
+<h3><i>Thanks ! This is helpful . Okay BYE !  </i></h3><br>
+<h6>Hidden Gems!</h6>
